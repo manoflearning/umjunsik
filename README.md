@@ -1,2 +1,2 @@
-# umjunsik-ps
+# umjunsik-boj
 엄랭으로 백준 문제들을 풉니다. 엄랭으로 코테 뚫는 그날까지!
